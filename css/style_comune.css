@@ -1,0 +1,389 @@
+#centrale_omar{
+  position: absolute;
+  background-color: none;
+  width: 800px;
+  transform: translate(-50%,0);
+  left:50%;
+  top:20px;;
+  height: 140em;
+}
+#centrale_foto_omar{
+  position: absolute;
+  background-color: none;
+  width: 800px;
+  top:6em;
+  height: 533px;
+  transform: translate(-50%,0);
+  left:50%;
+}
+
+#centrale_chris{
+  position: absolute;
+  background-color: none;
+  width: 800px;
+  transform: translate(-50%,0);
+  left:50%;
+  top:20px;
+  height: 200em;
+  margin-left:-40px;
+}
+
+#centrale_foto_chris{
+  position: absolute;
+  background-color: none;
+  width: 800px;
+  /*top:6em;*/
+  height: 533px;
+  transform: translate(-50%,0);
+  left:50%;
+  margin-top: 6320px;
+}
+
+#centrale_biggers{
+  position: absolute;
+  background-color: none;
+  width: 800px;
+  transform: translate(-50%,0);
+  left:50%;
+  height: 200em;
+  margin-left:-40px;
+}
+
+#centrale_foto_biggers{
+  position: absolute;
+  background-color: none;
+  width: 800px;
+  height: 533px;
+  transform: translate(-50%,0);
+  left:50%;
+  margin-top: 2320px;
+}
+
+#centrale_vito{
+  position: absolute;
+  background-color: none;
+  width: 800px;
+  transform: translate(-50%,0);
+  left:50%;
+  height: 200em;
+  margin-left:-40px;
+}
+
+#centrale_foto_vito{
+  position: absolute;
+  background-color: none;
+  width: 800px;
+  height: 533px;
+  transform: translate(-50%,0);
+  left:370px;
+  margin-top: 3470px;
+}
+
+.foto{
+  position:absolute;
+  width: 800px;
+}
+
+.op0{
+  opacity:0;
+}
+
+.op1{
+  opacity:1;
+}
+
+.dx{
+  opacity: 1;
+  transition: 1s;
+}
+
+.sx{
+  opacity: 0;
+  transition: 1s;
+}
+
+.freccia{
+  position:absolute;
+  width: 5%;
+  transform: translate(0,-50%);
+  top:50%;
+  opacity: 0.7;
+}
+
+.freccia:hover{
+  opacity:1;
+}
+
+#freccia_sx{
+  left:-25px;
+
+}
+
+#freccia_dx{
+  right:-25px;
+}
+
+
+#freccia_sx_biggers{
+  left:-60px;
+}
+
+#freccia_dx_biggers{
+  right:-160px;
+}
+
+#freccia_sx_devito{
+  left:-25px;
+}
+
+#freccia_dx_devito{
+  right:-160px;
+}
+
+img {
+  width: 100%;
+  align-self: center;
+}
+.margine {
+  margin-top: 40px;
+  margin-bottom: 70px;
+}
+.immagine {
+  margin-top:20px;
+  margin-bottom:30px;
+}
+h1 {
+  color: white;
+  font-size: 15px;
+}
+.nome {
+  margin-top: 50px;
+  margin-left:650px;
+  margin-top: 50px;
+}
+a img:hover {
+  border:10px solid grey;
+  transition: all .4s;
+}
+p {
+  font-family: sans-serif;
+}
+.top {
+  margin-top: 60px;
+}
+
+.nome_angelica {
+  margin-top: 50px;
+  margin-left:420px;
+}
+.centro_angelica {
+margin-top:150px;
+}
+.destra_angelica {
+  margin-left: 1400px;
+}
+.spazio_angelica {
+  margin-top: 30px;
+}
+.spazio_lato_angelica {
+  margin-right:30px;
+}
+.top_angelica {
+  margin-top:0px;
+}
+.nome_arte {
+  font-size:40px;
+  margin-top: 0px;
+  margin-left:650px;
+  margin-bottom: 250px;
+  text-align: center;
+}
+.top_arte {
+  margin-top:50px;
+}
+.nome_articoli {
+  font-size:40px;
+  margin-top: 0px;
+  margin-left:650px;
+  margin-bottom: 250px;
+  text-align: center;
+}
+.top_articoli {
+  margin-top:50px;
+}
+.nome_esperienze {
+  font-size:40px;
+  margin-top: 0px;
+  margin-left:650px;
+  margin-bottom: 250px;
+  text-align: center;
+}
+.top_esperienze {
+  margin-top:50px;
+}
+.top_2_esperienze {
+  margin-top:30px;
+}
+.nome_gemelle {
+  margin-top: 50px;
+  margin-left:180px;
+  margin-top: 50px;
+}
+.testi_gemelle {
+  margin-top:0px;
+}
+.testi_a_gemelle {
+  margin-top: 10px;
+}
+.immagine_a_gemelle {
+  margin-top:-90px;
+}
+.immagine_b_gemelle {
+  margin-top:-60px;
+}
+.immagine_c_gemelle {
+  margin-bottom:-70px;
+}
+.nome_leggi {
+  margin-top: 50px;
+  margin-left:600px;
+  margin-top: 50px;
+}
+.testi_leggi {
+  margin-top:0px;
+}
+.testi_a_leggi{
+  margin-top: 10px;
+}
+.immagine_a_leggi {
+  margin-top:-90px;
+}
+.immagine_b_leggi {
+  margin-top:-20px;
+}
+.immagine_c_leggi {
+  margin-bottom:-70px;
+}
+.immagine_1_leggi {
+  margin-top: 10px;
+}
+.testo_2_leggi {
+  margin-top: -70px;
+}
+.immagine_2_leggi {
+  margin-top:0px;
+}
+.nome_mellody {
+  margin-top: 50px;
+  margin-left:420px;
+}
+.centro_mellody {
+margin-top:300px;
+}
+.destra_mellody {
+  margin-left: 1400px;
+}
+.spazio_mellody {
+  margin-top: 30px;
+}
+.spazio_lato_mellody {
+  margin-right:30px;
+}
+.top_mellody {
+  margin-top:0px;
+}
+.nome_miriam {
+  margin-top: 50px;
+  margin-left:420px;
+}
+.centro_miriam {
+margin-top:60px;
+}
+.destra_miriam {
+  margin-left: 1400px;
+}
+.spazio_miriam {
+  margin-top: 30px;
+}
+.spazio_lato_miriam {
+  margin-right:30px;
+}
+.top_miriam {
+  margin-top:0px;
+}
+.nome_scienza {
+  margin-top: 0px;
+  margin-left:500px;
+}
+.testi_scienza {
+  margin-top:0px;
+}
+.testi_a_scienza {
+  margin-top: 10px;
+}
+.immagine_a_scienza {
+  margin-top:-90px;
+}
+.immagine_b_scienza {
+  margin-top:-20px;
+}
+.immagine_c_scienza {
+  margin-bottom:-70px;
+}
+.immagine_1_scienza {
+  margin-top: 10px;
+}
+.testo_2_scienza {
+  margin-top: -70px;
+}
+.immagine_2_scienza {
+  margin-top:0px;
+}
+.nome_ted {
+  font-size:40px;
+  margin-top: 0px;
+  margin-left:650px;
+  margin-bottom: 250px;
+  text-align: center;
+}
+.top_ted {
+  margin-top:50px;
+}
+.nome_verna {
+  margin-top: 50px;
+  margin-left:420px;
+}
+.centro_verna {
+margin-top:130px;
+}
+.destra_verna {
+  margin-left: 1400px;
+}
+.spazio_verna {
+  margin-top: 30px;
+}
+.spazio_lato_verna {
+  margin-right:30px;
+}
+.top_verna {
+  margin-top:20px;
+}
+.nome_winnie {
+  margin-top: 50px;
+  margin-left:570px;
+}
+.testi_winnie {
+  margin-top:0px;
+}
+.testi_a_winnie {
+  margin-top: 10px;
+}
+.immagine_a_winnie {
+  margin-top:-90px;
+}
+.immagine_b_winnie {
+  margin-top:-60px;
+}
+.immagine_c_winnie {
+  margin-bottom:-70px;
+}
