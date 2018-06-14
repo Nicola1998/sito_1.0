@@ -144,23 +144,7 @@ img {
   width: 100%;
   align-self: center;
 }
-.margine {
-  margin-top: 40px;
-  margin-bottom: 70px;
-}
-.immagine {
-  margin-top:20px;
-  margin-bottom:30px;
-}
-h1 {
-  color: white;
-  font-size: 15px;
-}
-.nome {
-  margin-top: 50px;
-  margin-left:650px;
-  margin-top: 50px;
-}
+
 a img:hover {
   border:10px solid grey;
   transition: all .4s;
@@ -386,4 +370,50 @@ margin-top:130px;
 }
 .immagine_c_winnie {
   margin-bottom:-70px;
+}
+.sinistra {
+  margin-left: 100px;
+}
+.destra {
+  margin-left: -100px;
+}
+.angelica {
+  margin-top: 5px;
+}
+.feroce {
+  margin-top: 25px;
+}
+.destrissima {
+  margin-left: -125px;
+}
+.margine {
+  margin-top: 40px;
+  margin-bottom: 70px;
+}
+.immagine {
+  margin-top:20px;
+  margin-bottom:30px;
+}
+h1 {
+  color: white;
+  font-size: 15px;
+}
+.nome {
+  margin-top: 50px;
+  margin-left:550px;
+}
+.centro {
+text-align: center;
+}
+.destra {
+  margin-left: 1500px;
+}
+.spazio {
+  margin-top: 30px;
+}
+.spazio_lato {
+  margin-right:30px;
+}
+p {
+  font-family: sans-serif;
 }
