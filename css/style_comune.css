@@ -146,7 +146,7 @@ img {
 }
 
 a img:hover {
-  border:10px solid grey;
+  border:15px solid lightgrey;
   transition: all .4s;
 }
 p {
